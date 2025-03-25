@@ -1,0 +1,278 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Lettre Ecosup Assurance - Mars 2025</mj-title>
+    <mj-raw>
+      <meta charset="UTF-8" />
+      <meta name="color-scheme" content="light"/>
+      <meta name="supported-color-schemes" content="light"/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif"/>
+      <mj-class name="T+2" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="900" line-height="18px"/>
+      <mj-class name="T+1" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="700" line-height="24px"/>
+      <mj-class name="T700" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="20px"/>
+      <mj-class name="T400" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="20px"/>
+      <mj-class name="T-1-700" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="700" line-height="16px"/>
+      <mj-class name="T-1-400" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" line-height="16px"/>
+      <mj-class name="T-2-300" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="300" line-height="14px"/>
+      <mj-class name="cA+2" color="#944694"/>
+      <mj-class name="cA+1" color="#684092"/>
+      <mj-class name="cT-0" color="#45546e"/>
+      <mj-class name="cT-1" color="#fcfcfc"/>
+      <mj-class name="bgcG" background-color="#eff1f5"/>
+    </mj-attributes>
+    <mj-breakpoint width="480px"/>
+    <mj-style>
+      @media only screen and (max-width:480px) { 
+          .mobile-hide { 
+              display: none !important; 
+          }
+          .mobile-show { 
+              display: block !important;
+              width: 100% !important;
+              height: auto !important;
+              visibility: visible !important;
+          }
+      }
+      .mobile-show {
+          display: none; 
+      }
+      
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7ECf2">
+    <mj-section background-color="#c0c9d8" padding="10px 10px">
+      <mj-group width="450px">
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image padding="0" border="0" width="50px" align="center" src="https://i.ibb.co/1TX5zLW/lg-ESA112024.png" alt="logo ESA (École Supérieure d'Assurances)"/>
+        </mj-column>
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image padding="0" border="0" width="120px" align="center" src="https://i.ibb.co/HGs67PM/lg-AGEA112024.png" alt="logo AGEA (Agent Général d'Assurance)"/>
+        </mj-column>
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image padding="0" border="0" width="100px" align="center" src="https://i.ibb.co/9WmCPHs/lg-Grafton112024.png" alt="logo Graphton recrutement"/>
+        </mj-column>
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image padding="0" border="0" width="50px" align="center" src="https://i.ibb.co/MhjdcT8/Logo-BNIculturebusiness.png" alt="logo BNI culture business"/>
+        </mj-column>
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image padding="0" border="0" width="70px" align="center" src="https://i.ibb.co/FgxXSyj/Logo-Atlasjpo12142024.png" alt="logo OPCO ATLAS"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#eff1f5" padding-top="20px" padding-bottom="5px" padding-left="0px" padding-right="0px">
+      <mj-group width="95%"> 
+        <mj-column width="50%" padding="10px">
+          <mj-image align="left" padding="0" border="none" width="256px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png" alt="Logo Ecosup Assurance"/>
+        </mj-column>
+        <mj-column width="50%" padding="10px">
+          <mj-image align="right" padding="0" border="none" width="150px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb277b6d8c909673de86c1.png" alt="Logo de la Newsletter"/> 
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#eff1f5" padding="0">
+      <mj-column width="95%">
+        <mj-social align="right" padding-top="0" padding-bottom="0" padding-left="10px" padding-right="10px" icon-size="25px" mode="horizontal">
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupAssurance/" alt="icon Facebook"></mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d605a373b24d832a3970d.png" href="https://www.instagram.com/ecosup.campus/" alt="icon Instagram"></mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d6047d0d41f3120a8cdec.png" href="https://linkedin.com/company/ecosup-campus" alt="icon Linkedin">    </mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d60657236a3846ef846ba.png" href="https://www.youtube.com/@EcoSupAssurance" alt="icon Youtube">    </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#eff1f5" padding="0">
+      <mj-column width="95%">
+        <mj-text padding="5px 10px" align="left" font-size="16px" font-weight="300" color="#2D3748"><span style="font-weight:700;text-transform:uppercase">News Ecosup Assurance</span>&nbsp;&nbsp;|&nbsp;&nbsp;Mars 2025</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column width="100%">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/cc1V93PM/news-Bandeau022025.jpg" alt="Christian Annaloro, responsable pédagogique d'Ecosup Assurance, jeunes filles et garçons futurs étudiants d'Ecosup Assurance"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="10px" padding-bottom="40px">
+      <mj-column width="88%"> 
+        <mj-text padding-top="5px" padding-bottom="0" mj-class="T+2 cA+2" text-transform="uppercase">Édito</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T700 cT+1" font-style="italic">Ensemble, créons des opportunités&nbsp;!</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T400 cT-0" font-style="italic">Chez Ecosup Assurance, l'énergie est à son comble&nbsp;! Salons, forums, rencontres... Nous sommes partout où les talents et les entreprises peuvent se croiser. Notre mission&nbsp;? Créer des opportunités, accélérer les recrutements et accompagner chaque candidat vers son avenir en alternance.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T400 cT-0" font-style="italic">Le timing est crucial&nbsp;: les recrutements battent leur plein, et nous sommes aux côtés de nos partenaires comme l'Opco Atlas, le lycée Sévigné de Tourcoing, l'EIC Tourcoing et bien d'autres, pour permettre ces rencontres décisives.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T400 cT-0" font-style="italic">Nous avons besoin de vous&nbsp;! Candidats, parents, entreprises, unissons nos forces pour transformer le potentiel en contrats d'alternance concrets. L'avenir se joue maintenant, et ensemble, nous pouvons le bâtir&nbsp;!</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" mj-class="T700 cT+1" font-style="italic">À très bientôt sur le terrain&nbsp;!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding="20px 17px">
+      <mj-column width="40%" padding="8px">
+        <mj-image padding="0" src="https://i.ibb.co/dJx4cRPn/af-Job-Dating032025.png" alt="Affiche du Job Dating Assurance et Banque qui aura lieu le 17 avril 2025" width="210px"/>
+      </mj-column>
+      <mj-column width="60%" padding="8px">
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-text padding="0" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Job Dating Alternance</mj-text>
+        <mj-text padding="0" align="left" mj-class="T+1 cA+1">Le grand RDV de l'Assurance et de la Banque arrive&nbsp;! </mj-text>
+        <mj-text padding="5px 0" mj-class="T400 cT-0"><span style="font-weight:700;color:#2d3748">Ecosup Assurance</span> est ravi de vous convier à son <span style="font-weight:700;color:#2D3748;">Job Dating</span> exceptionnel le <span style="font-weight:700;color:#2D3748;">17&nbsp;avril&nbsp;2025</span>, de <span style="font-weight:700;color:#2D3748;">14h à 17h30</span>, dans nos locaux. Un après-midi unique pour rencontrer les plus grands acteurs de l'assurance et de la banque : <span style="font-weight:700;color:#2D3748;">SMA BTP, Caisse d'Epargne, SwissLife, Crédit Agricole PFM, Crédit Agricole Assurance, Verpieren</span>, et bien d'autres&nbsp;!</mj-text>
+        <mj-text padding="5px 0" mj-class="T400 cT-0">Ne manquez pas cette opportunité de <span style="font-weight:700;color:#2D3748;">booster votre avenir professionnel&nbsp;!</span> A vos CV&nbsp;!</mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://forms.gle/xNwDeKbzHiSRVrGc6" style="color:#BA4995;font-size:16px;line-height:20px;font-weight:700" target="_blank">Inscrivez-vous dès maintenant...</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px 17px">
+      <mj-column width="40%" padding="8px">
+        <mj-image padding="0px" width="210px" src="https://i.ibb.co/nssfmL4W/af-Atlas032025.png" alt="Rencontre - l'alternance : un passeport pour une formation dans le supérieur le 6 mars de 9h à 12h30 "/>
+      </mj-column>
+      <mj-column width="60%" padding="8px">
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-text padding="0px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Partenariat Alternance</mj-text>
+        <mj-text padding="0px" align="left" mj-class="T+1 cA+1">Une collaboration prometteuse avec l'OPCO Atlas&nbsp;!</mj-text>
+        <mj-text padding="5px 0" mj-class="T400 cT-0">C'est avec une immense joie que nos équipes, en collaboration avec celles de l'<span style="font-weight:700;color:#2D3748;">OPCO Atlas</span>, ont partagé un moment convivial au sein de notre école. Ce fut l'occasion de poser les bases d'une future collaboration pour toujours mieux répondre à notre objectif commun : <span style="font-weight:700;color:#2D3748;">faciliter la rencontre entre les jeunes et les entreprises</span>.</mj-text>
+        <mj-text padding="5px 0" mj-class="T400 cT-0"><span style="font-weight:700;color:#2D3748;">OPCO Atlas</span> sera présent à nos côtés lors de notre <span style="font-weight:700;color:#2D3748;">JobDating le 17&nbsp;avril&nbsp;2025</span>.</mj-text>
+        <mj-text padding="5px 0" mj-class="T400 cT-0">Nous serons également présents aux côtés de l'<span style="font-weight:700;color:#2D3748;">OPCO Atlas</span> lors de la <span style="font-weight:700;color:#2D3748;">grande manifestation au siège de la région le 6&nbsp;mars&nbsp;2025&nbsp;!</span></mj-text>
+        <mj-text padding="5px 0" mj-class="T400 cT-0">Un grand merci à <span style="font-weight:700;color:#2D3748;">Atika Belaid</span>, qui a rendu possible cette belle collaboration.</mj-text>
+        <mj-text padding="5px 0" mj-class="T700 cT+1">Rendez-vous le 6 mars pour de nouvelles opportunités !</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding="20px 17px">
+      <mj-column width="40%" padding="8px">
+        <mj-image padding="0px" width="210px" src="https://i.ibb.co/4g3fJ0yJ/af-Swisslife.png" alt="Afterwork swisslife propose 20 postes en apprentissage"/>
+      </mj-column>
+      <mj-column width="60%" padding="8px">
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-text padding="0px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Partenariat Alternance</mj-text>
+        <mj-text padding="0px" align="left" mj-class="T+1 cA+1">Un partenariat d'exception avec SwissLife&nbsp;!</mj-text>
+        <mj-text padding="5px 0" mj-class="T400 cT-0">C'est un véritable honneur pour notre école d'être partenaire d'un groupe prestigieux tel que SwissLife. Le <span style="font-weight:700;color:#2D3748;">20&nbsp;février&nbsp;2025</span>, nos futurs élèves ont eu la chance de profiter pleinement de ce partenariat en étant invités à une soirée exclusive au siège régional de Roubaix.</mj-text>
+        <mj-text padding="5px 0" mj-class="T400 cT-0">Cette rencontre, riche et captivante, a permis à nos talents de rencontrer les managers des services en recherche de nouveaux collaborateurs. <span style="font-weight:700;color:#2D3748;">Plus de 20 postes disponibles&nbsp;!</span> Un bel avenir s'annonce pour nos élèves grâce à cette formidable opportunité.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px 17px">
+      <mj-column width="40%" padding="8px">
+        <mj-image padding="0px" src="https://i.ibb.co/Rkby72V7/trading-Gaming.png" alt="logo du Trading Game d'Ecosup Campus" width="210px"></mj-image>
+      </mj-column>
+      <mj-column width="60%" padding="8px">
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-text padding="0" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Trading Game</mj-text>
+        <mj-text padding="0" align="left" mj-class="T+1 cA+1">Félicitations aux gagnants&nbsp;!</mj-text>
+        <mj-text padding="5px 0" mj-class="cT-0 T400">Le <span style="font-weight:700;color:#2D3748;">Trading Game</span> touche à sa fin, et nous tenons à féliciter chaleureusement tous les participants qui ont joué le jeu jusqu'aux derniers jours&nbsp;! Un grand bravo à <span style="font-weight:700;color:#2D3748;">Laura</span>, qui a su se démarquer en empochant les gains les plus importants après un mois de combat acharné sur les marchés financiers mondiaux. </mj-text>
+        <mj-text padding="5px 0" mj-class="cT-0 T400">Félicitations également à <span style="font-weight:700;color:#2d3748;">Sary</span>, qui remporte la deuxième place avec brio&nbsp;! Et un immense bravo à tous les autres participants, qui garderont sans aucun doute un souvenir mémorable de cette aventure boursière.</mj-text>
+        <mj-text padding="5px 0" mj-class="cT-0 T400">Chez <span style="font-weight:700;color:#2D3748;">EcoSup Campus</span>, il n'y a pas de perdant - chacun a gagné une expérience précieuse&nbsp;!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding="20px 17px">
+      <mj-column width="40%" padding="8px">
+        <mj-image padding="0" border="none" width="210px" src="https://i.ibb.co/83zvPkG/cvbook022025.png" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
+      </mj-column>
+      <mj-column width="60%" padding="8px">
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-text padding="0px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Apprentissage</mj-text>
+        <mj-text padding="0px" align="left" mj-class="T+1 cA+1">Votre entreprise recherche un collaborateur ! </mj-text>
+        <mj-text padding="5px 0px" align="left" mj-class="T400 cT-0">Demandez votre accès privilégié à l'espace entreprise pour découvrir <span style="color:#2D3748;font-weight:700;">notre CV Book</span>, reprenant tous les <span style="color:#2D3748;font-weight:700;">futurs talents</span> d'Ecosup Assurance Banque en <span style="color:#2D3748;font-weight:700;">recherche d'un contrat d'alternance</span>. </mj-text>
+        <mj-text padding="5px 0px" align="left" mj-class="T400 cT-0">Nous pouvons également vous l'adresser au format PDF sur simple demande.</mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/cv-book/" style="color:#BA4995;font-size:16px;line-height:20px;font-weight:700" target="_blank">Consultez notre cvBook code:022025</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="20px" padding-bottom="10px">
+      <mj-column>
+        <mj-text padding="0 25px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">À vos Agendas</mj-text>
+        <mj-text padding="0 25px" align="left" mj-class="T+1 cA+1">Salon, Job Dating et Journées Portes Ouvertes</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0" padding-left="23px" padding-right="23px">
+      <mj-group>
+        <mj-column padding="2px">
+          <mj-image padding="0" width="134px" src="https://i.ibb.co/nssfmL4W/af-Atlas032025.png" alt="Rencontre - l'alternance : un passeport pour une formation dans le supérieur 6 mars"/>
+        </mj-column>
+        <mj-column padding="2px">
+          <mj-image padding="0" width="134px" src="https://i.ibb.co/2006Grjd/af-Etudiant032025.png" alt="Salon de l'Étudiant : Formations et recrutement en alternance 21 et 22 mars"/>
+        </mj-column>
+        <mj-column padding="2px">
+          <mj-image padding="0" width="134px" src="https://i.ibb.co/jPJJMkf1/af-Jpo032025.png" alt="Affiche de la journée portes ouvertes du samedi 29 mars 2025 de 9h30 à 13h"/>
+        </mj-column>
+        <mj-column padding="2px">
+          <mj-image padding="0" width="134px" src="https://i.ibb.co/dJx4cRPn/af-Job-Dating032025.png" alt="Affiche du job dating du jeudi 17 avril"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#586c8d" padding-left="23px" padding-right="23px" padding-bottom="10px">
+      <mj-column>
+        <mj-text padding="0px 2px" align="left" mj-class="T+1" color="#EDF2F7">Entreprises accueillant nos étudiants en apprentissage</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#586c8d" padding="0px 23px">
+      <mj-group>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/s9bNW5TV/axa.png" alt="logo AXA assurance"/>
+        </mj-column>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/Ndtpn0MF/sma.png" alt="logo SMA btp"/>
+        </mj-column>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/b5SxQdLj/dlm.png" alt="logo DLM location"/>
+        </mj-column>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/tPHbkbGP/concilian.png" alt="logo Concilian"/>
+        </mj-column>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/N2D7V4M9/mesange.png" alt="logo Mésange Prévoyance"/>
+        </mj-column>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/BKrjVTWW/ghenner.png" alt="logo groupe Henner"/>
+        </mj-column>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/Jgb3gS7/allianz.png" alt="logo Allianz assurance"/>
+        </mj-column>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/SD9PWN32/vespieren.png" alt="logo Vespieren"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#586c8d" padding="0px 23px">
+      <mj-group>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/svCSkW0J/swisslife.png" alt="logo couleur Swiss Life"/>
+        </mj-column>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/BK5G6NKX/malakoff.png" alt="logo couleur Humanis Malakoff"/>
+        </mj-column>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/zhzhc7ZZ/sofinco.png" alt="logo couleur Sofinco"/>
+        </mj-column>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/1tpfhHps/deledalle.png" alt="logo couleur Deledalle courtier d'assurances"/>
+        </mj-column>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/C4Rm3Wp/2m.png" alt="logo 2M votre courtier assurancess"/>
+        </mj-column>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/6h28XDy/mma.png" alt="logo MMA assurance"/>
+        </mj-column>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/1tpfhHps/deledalle.png" alt="logo Diot groupe Diot Siaci"/>
+        </mj-column>
+        <mj-column background-color="#586c8d" padding="2px">
+          <mj-image padding="0" align="center" width="65px" src="https://i.ibb.co/Zb0ZFDy/cepargne.png" alt="logo Caisse d'Épargne"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#586c8d" padding="20px 32px">
+      <mj-column width="320px">
+        <mj-image width="140px" padding="0" align="center" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" alt="Logo Ecosup Campus"/>
+        <mj-text padding="0" align="center" mj-class="T-1-400 cT-1"><a style="text-decoration:none;color:#fcfcfc;" href="https://www.google.com/maps/@50.72132372645463,3.1568485683426477?ll=50.72132372645463,3.1568485683426477&amp;z=12&amp;q=Ecosup+Campus">17 Place Charles et Albert Roussel</a></mj-text>
+        <mj-text padding="0" align="center" mj-class="T-1-400 cT-1"><a style="text-decoration:none;color:#fcfcfc;" href="https://www.google.com/maps/@50.72132372645463,3.1568485683426477?ll=50.72132372645463,3.1568485683426477&amp;z=12&amp;q=Ecosup+Campus">59200 TOURCOING</a></mj-text>
+        <mj-text padding="0" align="center" mj-class="T-1-700 cT-1"><a style="text-decoration:none;color:#fcfcfc;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
+        <mj-text padding="0" align="center" mj-class="T-1-400 cT-1"><a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0" align="center" mj-class="T-1-700 cT-1"><a style="text-decoration:none;color:#fcfcfc;" href="https://ecosup-campus.com">www.ecosup-campus.fr</a></mj-text>
+        <mj-spacer height="25px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="320px">
+        <mj-text padding="0" align="center" mj-class="T-2-300" color="#0a0c10">Si vous n'arrivez pas à lire cet email, cliquez <a style="color:#BA4995;font-size:12px;font-weight:700" href="{{ mirror}}">ici</a>           </mj-text>
+        <mj-text padding="0" align="center" mj-class="T-2-300" color="#0a0c10">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#0a0c10;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T-2-300" color="#0a0c10">Pour vous désinscrire, cliquez <a style="color:#BA4995;font-size:12px;font-weight:700;" href="{{ unsubscribe }}">ici</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

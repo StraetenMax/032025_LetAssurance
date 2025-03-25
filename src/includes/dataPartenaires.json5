@@ -1,0 +1,70 @@
+{
+  "logosList1": [
+        {
+            'image': 'https://i.ibb.co/s9bNW5TV/axa.png',
+            'alt' : 'logo AXA assurance' 
+        },
+        {
+            'image':'https://i.ibb.co/Ndtpn0MF/sma.png',
+            'alt':'logo SMA btp'
+        },
+        {
+            'image':'https://i.ibb.co/b5SxQdLj/dlm.png',
+            'alt':'logo DLM location'
+        },
+        {
+            'image':'https://i.ibb.co/tPHbkbGP/concilian.png',
+            'alt':'logo Concilian'
+        },      
+        { 
+            'image':'https://i.ibb.co/N2D7V4M9/mesange.png',
+            'alt':'logo Mésange Prévoyance'
+        },
+        {
+            'image':'https://i.ibb.co/BKrjVTWW/ghenner.png',
+            'alt':'logo groupe Henner'
+        },
+        {
+            'image':'https://i.ibb.co/Jgb3gS7/allianz.png',
+            'alt':'logo Allianz assurance'
+        },
+        {
+            'image':'https://i.ibb.co/SD9PWN32/vespieren.png',
+            'alt':'logo Vespieren'
+        }
+  ],
+  "logosList2": [
+       {
+            'image':'https://i.ibb.co/svCSkW0J/swisslife.png',
+            'alt':'logo couleur Swiss Life'
+        },
+        {
+            'image':'https://i.ibb.co/BK5G6NKX/malakoff.png',
+            'alt':'logo couleur Humanis Malakoff'
+        },
+        {
+            'image':'https://i.ibb.co/zhzhc7ZZ/sofinco.png',
+            'alt':'logo couleur Sofinco'
+        },
+        {
+            'image':'https://i.ibb.co/1tpfhHps/deledalle.png',
+            'alt':'logo couleur Deledalle courtier d\'assurances'
+        },     
+       {
+            'image':'https://i.ibb.co/C4Rm3Wp/2m.png',
+            'alt':'logo 2M votre courtier assurancess'
+        },
+        {
+            'image':'https://i.ibb.co/6h28XDy/mma.png',
+            'alt':'logo MMA assurance'
+        },
+        {
+            'image':'https://i.ibb.co/1tpfhHps/deledalle.png',
+            'alt':'logo Diot groupe Diot Siaci'
+        },
+        {
+            'image':'https://i.ibb.co/Zb0ZFDy/cepargne.png',
+            'alt':'logo Caisse d\'Épargne'
+        }    
+    ]
+}
