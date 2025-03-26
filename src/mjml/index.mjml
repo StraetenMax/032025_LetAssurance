@@ -112,11 +112,24 @@
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
         <mj-text padding="0" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Job Dating Alternance</mj-text>
-        <mj-text padding="0" align="left" mj-class="T+1 cA+1">Le grand RDV de l'Assurance et de la Banque arrive&nbsp;! </mj-text>
-        <mj-text padding="5px 0" mj-class="T400 cT-0"><span style="font-weight:700;color:#2d3748">Ecosup Assurance</span> est ravi de vous convier à son <span style="font-weight:700;color:#2D3748;">Job Dating</span> exceptionnel le <span style="font-weight:700;color:#2D3748;">17&nbsp;avril&nbsp;2025</span>, de <span style="font-weight:700;color:#2D3748;">14h à 17h30</span>, dans nos locaux. Un après-midi unique pour rencontrer les plus grands acteurs de l'assurance et de la banque : <span style="font-weight:700;color:#2D3748;">SMA BTP, Caisse d'Epargne, SwissLife, Crédit Agricole PFM, Crédit Agricole Assurance, Verpieren</span>, et bien d'autres&nbsp;!</mj-text>
+        <mj-text padding="0" align="left" mj-class="T+1 cA+1">Job Dating Spécial Banque & Assurance</mj-text>
+        <mj-text padding="5px 0" mj-class="T400 cT-0">À la recherche d'une alternance&nbsp;? Ne manquez pas cette opportunité unique de rencontrer les entreprises du secteur Banque & Assurance qui recrutent !</mj-text>
         <mj-text padding="5px 0" mj-class="T400 cT-0">Ne manquez pas cette opportunité de <span style="font-weight:700;color:#2D3748;">booster votre avenir professionnel&nbsp;!</span> A vos CV&nbsp;!</mj-text>
         <mj-spacer height="10px"></mj-spacer>
         <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://forms.gle/xNwDeKbzHiSRVrGc6" style="color:#BA4995;font-size:16px;line-height:20px;font-weight:700" target="_blank">Inscrivez-vous dès maintenant...</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px 17px">
+      <mj-column width="40%" padding="8px">
+        <mj-image padding="0px" src="https://i.ibb.co/Rkby72V7/trading-Gaming.png" alt="logo du Trading Game d'Ecosup Campus" width="210px"></mj-image>
+      </mj-column>
+      <mj-column width="60%" padding="8px">
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-text padding="0" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Salons & Évènements</mj-text>
+        <mj-text padding="0" align="left" mj-class="T+1 cA+1">EcoSup Campus aux côtés de l'OPCO Atlas pour l'alternance&nbsp;!</mj-text>
+        <mj-text padding="5px 0" mj-class="cT-0 T400">Nous avons eu le plaisir de participer au <span style="font-weight:700;color:#2d3748;">Forum de l'Alternance</span>, organisé par l'<span style="font-weight:700;color:#2d3748;">OPCO Atlas</span> en collaboration avec la <span style="font-weight:700;color:#2d3748;">Région Hauts-de-France</span>, à l'Hôtel de Région. Cet événement a été une formidable opportunité d'échanger avec les <span style="font-weight:700;color:#2d3748;">élèves, les demandeurs d'emploi et les entreprises</span> sur les nombreuses opportunités offertes par l'<span style="font-weight:700;color:#2d3748;">alternance</span>.</mj-text>
+        <mj-text padding="5px 0" mj-class="cT-0 T400">Chez <span style="font-weight:700;color:#2d3748;">Ecosup Campus</span>, nous sommes convaincus que l'<span style="font-weight:700;color:#2d3748;">alternance</span> est une véritable passerelle vers l'emploi, et c'est pourquoi nous restons mobilisés pour accompagner les jeunes dans leur projet professionnel.</mj-text>
+        <mj-text padding="5px 0" mj-class="cT-0 T400">Un grand merci à tous les participants et partenaires pour ces échanges enrichissants. <span style="font-weight:700;color:#2d3748;">Ensemble, faisons grandir les talents de notre région&nbsp;!</span></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
@@ -130,19 +143,6 @@
         <mj-text padding="5px 0" mj-class="T400 cT-0">Ce week-end, EcoSup Assurance a eu le plaisir d'accueillir de nombreux étudiants en quête de formation, d'école et d'entreprise pour se lancer dans l'alternance. Deux jours riches en échanges, en conseils et en opportunités pour accompagner ces jeunes talents dans leur projet professionnel.</mj-text>
         <mj-text padding="5px 0" mj-class="T400 cT-0">Notre mission ? Informer, orienter et surtout aider chaque candidat à trouver sa voie !</mj-text>
         <mj-text padding="5px 0" mj-class="T400 cT-0">Entreprises, les talents de demain sont là ! Profitez-en, contactez-nous et trouvons ensemble votre futur alternant. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding="20px 17px">
-      <mj-column width="40%" padding="8px">
-        <mj-image padding="0px" src="https://i.ibb.co/Rkby72V7/trading-Gaming.png" alt="logo du Trading Game d'Ecosup Campus" width="210px"></mj-image>
-      </mj-column>
-      <mj-column width="60%" padding="8px">
-        <mj-spacer height="12px"></mj-spacer>
-        <mj-text padding="0" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Salons & Évènements</mj-text>
-        <mj-text padding="0" align="left" mj-class="T+1 cA+1">EcoSup Campus aux côtés de l'OPCO Atlas pour l'alternance !</mj-text>
-        <mj-text padding="5px 0" mj-class="cT-0 T400">Nous avons eu le plaisir de participer au Forum de l'Alternance, organisé par l'OPCO Atlas en collaboration avec la Région Hauts-de-France, à l'Hôtel de Région. Cet événement a été une formidable opportunité d'échanger avec les élèves, les demandeurs d'emploi et les entreprises sur les nombreuses opportunités offertes par l'alternance.</mj-text>
-        <mj-text padding="5px 0" mj-class="cT-0 T400">Chez EcoSup Campus, nous sommes convaincus que l'alternance est une véritable passerelle vers l'emploi, et c'est pourquoi nous restons mobilisés pour accompagner les jeunes dans leur projet professionnel.</mj-text>
-        <mj-text padding="5px 0" mj-class="cT-0 T400">Un grand merci à tous les participants et partenaires pour ces échanges enrichissants. Ensemble, faisons grandir les talents de notre région !</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
