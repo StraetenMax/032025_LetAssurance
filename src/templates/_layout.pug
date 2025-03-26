@@ -26,21 +26,6 @@ mjml
             mj-class(name="cT-1" color="#fcfcfc")/
             mj-class(name="bgcG" background-color="#eff1f5")/
         mj-breakpoint(width='480px')/
-        mj-style. 
-            @media only screen and (max-width:480px) { 
-                .mobile-hide { 
-                    display: none !important; 
-                }
-                .mobile-show { 
-                    display: block !important;
-                    width: 100% !important;
-                    height: auto !important;
-                    visibility: visible !important;
-                }
-            }
-            .mobile-show {
-                display: none; 
-            }
     mj-body(background-color='#E7ECf2')
         //- block content
         block content
@@ -59,12 +44,12 @@ mjml
         //- block salon Opco
         block salonOpco
             include ../includes/_salonOpco
-        //-block salon Lille Grand Palais    
-        block lilleSalon
-            include ../includes/_lilleSalon
         //- block cvbook
         block cvbook
             include ../includes/_cvbook
+        //-block salon Lille Grand Palais    
+        block lilleSalon
+            include ../includes/_lilleSalon
         //- block agenda
         block agenda 
             include ../includes/_agenda
