@@ -160,7 +160,7 @@
         <mj-text padding="5px 0" mj-class="T400 cT-0"><span style="font-weight:700;color:#2D3748;">Entreprises, les talents de demain sont là&nbsp;!</span> Profitez-en, contactez-nous et trouvons ensemble votre futur alternant. </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding-top="20px" padding-bottom="10px" padding-left="23px" padding-right="23px">
+    <mj-section background-color="#ffffff" padding-top="20px" padding-bottom="10px" padding-left="17px" padding-right="17px">
       <mj-column width="40%" padding="8px">
         <mj-text padding="0" align="left" mj-class="T+2 cA+2" text-transform="uppercase">À vos Agendas</mj-text>
         <mj-text padding="0" align="left" mj-class="T+1 cA+1">Salon, Job Dating et Journées Portes Ouvertes</mj-text>
