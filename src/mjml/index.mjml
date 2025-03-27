@@ -105,19 +105,32 @@
         <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://forms.gle/xNwDeKbzHiSRVrGc6" style="color:#BA4995;font-size:16px;line-height:20px;font-weight:700" target="_blank">Inscrivez-vous dès maintenant...</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="20px 17px">
-      <mj-column width="40%" padding="8px">
-        <mj-image padding="0px" src="https://i.ibb.co/Rkby72V7/trading-Gaming.png" alt="logo du Trading Game d'Ecosup Campus" width="210px"></mj-image>
-      </mj-column>
-      <mj-column width="60%" padding="8px">
-        <mj-spacer height="12px"></mj-spacer>
-        <mj-text padding="0" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Salons & Évènements</mj-text>
-        <mj-text padding="0" align="left" mj-class="T+1 cA+1">EcoSup Campus aux côtés de l'OPCO Atlas pour l'alternance&nbsp;!</mj-text>
-        <mj-text padding="5px 0" mj-class="cT-0 T400">Nous avons eu le plaisir de participer au <span style="font-weight:700;color:#2d3748;">Forum de l'Alternance</span>, organisé par l'<span style="font-weight:700;color:#2d3748;">OPCO Atlas</span> en collaboration avec la <span style="font-weight:700;color:#2d3748;">Région Hauts-de-France</span>, à l'Hôtel de Région. Cet événement a été une formidable opportunité d'échanger avec les <span style="font-weight:700;color:#2d3748;">élèves, les demandeurs d'emploi et les entreprises</span> sur les nombreuses opportunités offertes par l'<span style="font-weight:700;color:#2d3748;">alternance</span>.</mj-text>
-        <mj-text padding="5px 0" mj-class="cT-0 T400">Chez <span style="font-weight:700;color:#2d3748;">Ecosup Campus</span>, nous sommes convaincus que l'<span style="font-weight:700;color:#2d3748;">alternance</span> est une véritable passerelle vers l'emploi, et c'est pourquoi nous restons mobilisés pour accompagner les jeunes dans leur projet professionnel.</mj-text>
-        <mj-text padding="5px 0" mj-class="cT-0 T400">Un grand merci à tous les participants et partenaires pour ces échanges enrichissants. <span style="font-weight:700;color:#2d3748;">Ensemble, faisons grandir les talents de notre région&nbsp;!</span></mj-text>
-      </mj-column>
-    </mj-section>
+    <mj-wrapper background-color="#ffffff" padding="20px 17px">
+      <mj-section padding="0">
+        <mj-column width="100%" padding="8px">
+          <mj-image padding="0px" src="https://i.ibb.co/ksdGxpvs/ImgOpco.jpg" alt="logo du Trading Game d'Ecosup Campus" width="600px"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">           
+        <mj-column width="60%" padding="8px">
+          <mj-text padding="0" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Salons & Évènements</mj-text>
+          <mj-text padding="0" align="left" mj-class="T+1 cA+1">EcoSup Campus aux côtés de l'OPCO Atlas pour l'alternance&nbsp;!</mj-text>
+          <mj-text padding="5px 0" mj-class="cT-0 T400">Nous avons eu le plaisir de participer au <span style="font-weight:700;color:#2d3748;">Forum de l'Alternance</span>, organisé par l'<span style="font-weight:700;color:#2d3748;">OPCO Atlas</span> en collaboration avec la <span style="font-weight:700;color:#2d3748;">Région Hauts-de-France</span>, à l'Hôtel de Région. Cet événement a été une formidable opportunité d'échanger avec les <span style="font-weight:700;color:#2d3748;">élèves, les demandeurs d'emploi et les entreprises</span> sur les nombreuses opportunités offertes par l'<span style="font-weight:700;color:#2d3748;">alternance</span>.</mj-text>
+        </mj-column>
+        <mj-column width="40%" padding="8px">
+          <mj-image padding="0" width="480px" src="https://i.ibb.co/M5SQ3VH0/imgOpco2.jpg" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">           
+        <mj-column width="40%" padding="8px">
+          <mj-image padding="0" width="480px" src="https://i.ibb.co/FgxXSyj/Logo-Atlasjpo12142024.png" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
+        </mj-column>
+        <mj-column width="60%" padding="8px">
+          <mj-text padding="5px 0" mj-class="cT-0 T400">Chez <span style="font-weight:700;color:#2d3748;">Ecosup Campus</span>, nous sommes convaincus que l'<span style="font-weight:700;color:#2d3748;">alternance</span> est une véritable passerelle vers l'emploi, et c'est pourquoi nous restons mobilisés pour accompagner les jeunes dans leur projet professionnel.</mj-text>
+          <mj-text padding="5px 0" mj-class="cT-0 T400">Un grand merci à tous les participants et partenaires pour ces échanges enrichissants. <span style="font-weight:700;color:#2d3748;">Ensemble, faisons grandir les talents de notre région&nbsp;!</span></mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
       <mj-column width="40%" padding="8px">
         <mj-image padding="0" border="none" width="210px" src="https://i.ibb.co/83zvPkG/cvbook022025.png" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
@@ -135,7 +148,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0px" width="210px" src="https://i.ibb.co/nssfmL4W/af-Atlas032025.png" alt="Rencontre - l'alternance : un passeport pour une formation dans le supérieur le 6 mars de 9h à 12h30 "/>
+        <mj-image padding="0px" width="210px" src="https://i.ibb.co/VYPqvVb8/imgSalon.jpg" alt="Rencontre - l'alternance : un passeport pour une formation dans le supérieur le 6 mars de 9h à 12h30 "/>
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
@@ -146,25 +159,17 @@
         <mj-text padding="5px 0" mj-class="T400 cT-0"><span style="font-weight:700;color:#2D3748;">Entreprises, les talents de demain sont là&nbsp;!</span> Profitez-en, contactez-nous et trouvons ensemble votre futur alternant. </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding-top="20px" padding-bottom="10px">
-      <mj-column>
+    <mj-section background-color="#ffffff" padding-top="20px" padding-bottom="10px" padding-left="23px" padding-right="23px">
+      <mj-column width="40%">
         <mj-text padding="0 25px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">À vos Agendas</mj-text>
         <mj-text padding="0 25px" align="left" mj-class="T+1 cA+1">Salon, Job Dating et Journées Portes Ouvertes</mj-text>
       </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-left="23px" padding-right="23px">
-      <mj-group>
-        <mj-column padding="2px">
-          <mj-image padding="0" width="134px" src="https://i.ibb.co/nssfmL4W/af-Atlas032025.png" alt="Rencontre - l'alternance : un passeport pour une formation dans le supérieur 6 mars"/>
+      <mj-group width="60%">
+        <mj-column width="50%" padding="2px">
+          <mj-image padding="0" width="200px" src="https://i.ibb.co/jPJJMkf1/af-Jpo032025.png" alt="Affiche de la journée portes ouvertes du samedi 29 mars 2025 de 9h30 à 13h"/>
         </mj-column>
-        <mj-column padding="2px">
-          <mj-image padding="0" width="134px" src="https://i.ibb.co/2006Grjd/af-Etudiant032025.png" alt="Salon de l'Étudiant : Formations et recrutement en alternance 21 et 22 mars"/>
-        </mj-column>
-        <mj-column padding="2px">
-          <mj-image padding="0" width="134px" src="https://i.ibb.co/jPJJMkf1/af-Jpo032025.png" alt="Affiche de la journée portes ouvertes du samedi 29 mars 2025 de 9h30 à 13h"/>
-        </mj-column>
-        <mj-column padding="2px">
-          <mj-image padding="0" width="134px" src="https://i.ibb.co/dJx4cRPn/af-Job-Dating032025.png" alt="Affiche du job dating du jeudi 17 avril"/>
+        <mj-column width="50%" padding="2px">
+          <mj-image padding="0" width="200px" src="https://i.ibb.co/dJx4cRPn/af-Job-Dating032025.png" alt="Affiche du job dating du jeudi 17 avril"/>
         </mj-column>
       </mj-group>
     </mj-section>
